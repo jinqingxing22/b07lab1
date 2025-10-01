@@ -1,3 +1,5 @@
+import lab2.Polynomial;
+
 public class Polynomial {
     private double[] coefficients;
     public Polynomial(){

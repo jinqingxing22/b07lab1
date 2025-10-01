@@ -1,3 +1,5 @@
+import lab2.Polynomial;
+
 public class Driver {
 public static void main(String [] args) {
 Polynomial p = new Polynomial();
